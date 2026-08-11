@@ -1,0 +1,15 @@
+# Logs
+*.log
+*.jsonl
+siem_loglari.jsonl
+alarmlar.jsonl
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
